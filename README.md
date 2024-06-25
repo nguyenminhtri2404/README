@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @TrisN03
+- 👋 Hi, I’m nguyenminhtri2404
 - 👀 I’m interested in front-end
-- 🌱 I’m currently learning at HUFI
-- 📫 Contact me: minhquantran.info@gmail.com
+- 🌱 I’m currently learning at HUIT
+- 📫 Contact me: nguyenminhtri24.info@gmail.com
 
 <!---
 TrisN03/TrisN03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
