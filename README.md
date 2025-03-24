@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nguyenminhtri2404
-- 👀 I’m interested in C#, Java, Python, PHP, C/C++
+- 👀 I’m interested in C#, PHP, Java, Python, C/C++
 - 🌱 I’m currently learning at HUIT
 - 📫 Contact me: nguyenminhtri24.info@gmail.com
 
